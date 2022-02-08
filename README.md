@@ -25,7 +25,7 @@ First, you will need to Clone the repository and go to that folder. Then, you wi
 
 Here is a video of a walkthrough of this project.
 
-[Walkthrough Video]()
+[Walkthrough Video](https://watch.screencastify.com/v/VuxVse1urVrip6wRB6hG)
 
 
 ## Built With
